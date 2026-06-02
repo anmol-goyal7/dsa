@@ -1,36 +1,40 @@
-# DSA - Striver's A2Z
+# DSA — Striver's A2Z
 
-DSA practice in C++ following Striver's A2Z course
+DSA practice in C++ following Striver's A2Z course. 474 problems across 18 topics.
 
 ## Progress
 
-| Step | Topic | Progress | Status |
+| # | Topic | Problems | Progress |
 | --- | --- | --- | --- |
-| Step 1 | Basics | 0/31 | ⬜ |
-| Step 2 | Sorting | 0/7 | ⬜ |
-| Step 3 | Arrays | 0/40 | ⬜ |
-| Step 4 | Binary Search | 0/32 | ⬜ |
-| Step 5 | Strings | 0/15 | ⬜ |
-| Step 6 | Linked List | 0/31 | ⬜ |
-| Step 7 | Recursion | 0/25 | ⬜ |
-| Step 8 | Bit Manipulation | 0/18 | ⬜ |
-| Step 9 | Stacks and Queues | 0/30 | ⬜ |
-| Step 10 | Sliding Window and Two Pointer | 0/12 | ⬜ |
-| Step 11 | Heaps | 0/17 | ⬜ |
-| Step 12 | Greedy | 0/16 | ⬜ |
-| Step 13 | Binary Trees | 0/39 | ⬜ |
-| Step 14 | Binary Search Trees | 0/16 | ⬜ |
-| Step 15 | Graphs | 0/54 | ⬜ |
-| Step 16 | Dynamic Programming | 0/56 | ⬜ |
-| Step 17 | Tries | 0/7 | ⬜ |
-| Step 18 | Strings Advanced | 0/9 | ⬜ |
+| 1 | Basics | 54 | 0/54 |
+| 2 | Sorting | 7 | 0/7 |
+| 3 | Arrays | 40 | 0/40 |
+| 4 | Binary Search | 32 | 0/32 |
+| 5 | Strings (Basic) | 15 | 0/15 |
+| 6 | Linked List | 31 | 0/31 |
+| 7 | Recursion | 25 | 0/25 |
+| 8 | Bit Manipulation | 18 | 0/18 |
+| 9 | Stacks & Queues | 30 | 0/30 |
+| 10 | Sliding Window & Two Pointer | 12 | 0/12 |
+| 11 | Heaps | 17 | 0/17 |
+| 12 | Greedy | 15 | 0/15 |
+| 13 | Binary Trees | 38 | 0/38 |
+| 14 | BST | 16 | 0/16 |
+| 15 | Graphs | 53 | 0/53 |
+| 16 | Dynamic Programming | 55 | 0/55 |
+| 17 | Tries | 7 | 0/7 |
+| 18 | Advanced Strings | 9 | 0/9 |
 
-## Sheet
+## Reference
 
-[Striver's A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 
-## How to Compile
+## Compile Command
 
 ```bash
 g++ -std=c++17 -Wall -Wextra -o output filename.cpp
 ```
+
+## File Naming Convention
+
+Use snake_case, named after the problem, for example `two_sum.cpp`.
