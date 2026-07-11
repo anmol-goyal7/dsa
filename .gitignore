@@ -1,0 +1,12 @@
+# Personal notes — not for GitHub
+notes/
+
+# Environment variables
+.env
+.env.*
+
+# Claude Code local config
+.claude/
+
+# Log files
+log.md
