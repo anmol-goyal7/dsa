@@ -12,4 +12,10 @@ notes/
 log.md
 
 # dump
-dump
+.dump
+
+# compiled binaries
+*.out
+*.o
+*.exe
+a.out
