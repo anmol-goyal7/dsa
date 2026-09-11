@@ -1,22 +1,3 @@
-# Personal notes — not for GitHub
-notes/
-
-# Environment variables
-.env
-.env.*
-
-# Claude Code local config
-.claude/
-
-# Log files
-log.md
-
-# dump
-.dump
-
-# compiled binaries
-*.out
-*.o
-*.exe
 a.out
-01-basics/stl/pairs
+*.o
+build/
