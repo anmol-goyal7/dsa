@@ -1,3 +1,11 @@
 a.out
 *.o
 build/
+
+#claude
+.claude
+
+dump
+idioms.md
+log.md
+
